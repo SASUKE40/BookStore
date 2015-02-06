@@ -1,0 +1,27 @@
+{
+  "name": "BookStore",
+  "version": "1.0.0",
+  "description": "BookStore Angular Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SASUKE40/BookStore"
+  },
+  "keywords": [
+    "Angular",
+    "BookStore"
+  ],
+  "author": "SASUKE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SASUKE40/BookStore/issues"
+  },
+  "homepage": "https://github.com/SASUKE40/BookStore",
+  "devDependencies": {
+    "bower": "^1.3.12",
+    "http-server": "^0.7.4"
+  }
+}
