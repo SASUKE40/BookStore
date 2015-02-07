@@ -1,0 +1,22 @@
+[{
+  "bookId":"1",
+  "index": "1",
+  "name": "JavaScript高级程序设计",
+  "author": "Nicholas C.Zakas",
+  "pubTime": "2012-03-01",
+  "price":"76"
+}, {
+  "bookId":"2",
+  "index": "2",
+  "name": "JavaScript权威指南",
+  "author": "David Flanagan",
+  "pubTime": "2012-04-01",
+  "price":"99"
+}, {
+  "bookId":"3",
+  "index": "3",
+  "name": "JavaScript语言精粹",
+  "author": "Douglas Crockford",
+  "pubTime": "2012-09-01",
+  "price":"24"
+}]

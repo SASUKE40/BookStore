@@ -22,6 +22,15 @@
   "homepage": "https://github.com/SASUKE40/BookStore",
   "devDependencies": {
     "bower": "^1.3.12",
-    "http-server": "^0.7.4"
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt-contrib-connect": "^0.9.0",
+    "grunt-contrib-jshint": "^0.11.0",
+    "grunt-contrib-qunit": "^0.5.2",
+    "grunt-contrib-uglify": "^0.7.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "http-server": "^0.7.4",
+    "karma": "^0.12.31",
+    "protractor": "^1.6.1"
   }
 }
